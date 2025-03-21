@@ -9,7 +9,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 👨‍💼 Desenvolvedor na área de telecomunicações 
+- 👨‍💼 Desenvolvedor na área de telecomunicações  
 - 🌌 Astrônomo amador nas horas vagas  
 - 🧠 Sempre aprendendo novas tecnologias
 
@@ -26,8 +26,16 @@
 ### 📊 Estatísticas
 
 <p align="center">
+  <!-- Estatísticas principais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunoso0&show_icons=true&theme=tokyonight" height="165" />
+
+  <!-- Gráfico de commits consecutivos -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunoso0&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunosantos&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Gráfico de linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoso0&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -35,5 +43,5 @@
 ### 📫 Contato
 
 - 📧 Email: brunosantosbrito.dev@gmail.com  
-- 🌐 [LinkedIn](www.linkedin.com/in/brunoso0)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/brunoso0)  
 - 📱 Instagram: @haiaeu
