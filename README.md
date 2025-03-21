@@ -34,6 +34,6 @@
 
 ### 📫 Contato
 
-- 📧 Email: seuemail@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/seulink)  
-- 📱 Instagram: @seuuser
+- 📧 Email: brunosantosbrito.dev@gmail.com  
+- 🌐 [LinkedIn](www.linkedin.com/in/brunoso0)  
+- 📱 Instagram: @haiaeu
