@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunoso0&theme=tokyonight" height="165" />
 </p>
 
-<p align="center">
-  <!-- Gráfico de linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoso0&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
