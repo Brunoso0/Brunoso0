@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Bruno Santos! 👨‍💻🚀</h1>
 
-<!--
-**Brunoso0/Brunoso0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+e+Mobile;Apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+GitHub!">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mim
+
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 👨‍💼 Desenvolvedor na área de telecomunicações  
+- 🔭 Criador da **EHB CODE Systems**  
+- 🌌 Astrônomo amador nas horas vagas  
+- 🧠 Sempre aprendendo novas tecnologias
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js,html,css,figma,firebase,github,vscode" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunosantos&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunosantos&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 Email: seuemail@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/seulink)  
+- 📱 Instagram: @seuuser
