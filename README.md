@@ -9,8 +9,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 👨‍💼 Desenvolvedor na área de telecomunicações  
-- 🔭 Criador da **EHB CODE Systems**  
+- 👨‍💼 Desenvolvedor na área de telecomunicações 
 - 🌌 Astrônomo amador nas horas vagas  
 - 🧠 Sempre aprendendo novas tecnologias
 
