@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Bruno Santos! 👨‍💻🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+e+Mobile;Apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+e+Mobile;Appaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+GitHub!">
 </p>
 
 ---
