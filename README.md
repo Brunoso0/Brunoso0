@@ -18,7 +18,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js,html,css,figma,firebase,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js,html,css,figma,github,vscode" />
 </p>
 
 ---
