@@ -28,8 +28,7 @@
 
 <p align="center">
   <!-- Estatísticas principais -->
- ![Brunoso0's Stats](https://github-readme-stats.vercel.app/api?username=Brunoso0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  <img src="![Brunoso0's Stats](https://github-readme-stats.vercel.app/api?username=Brunoso0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunoso0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
   <!-- Gráfico de commits consecutivos -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunoso0&theme=tokyonight" height="165" />
 </p>
