@@ -8,8 +8,9 @@
 
 ### 💡 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 👨‍💼 Desenvolvedor na área de telecomunicações  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Pós Graduação em Engenharia de Software para Dispositivos Moveis  
+- 👨‍💼 Desenvolvedor na área WEB  
 - 🌌 Astrônomo amador nas horas vagas  
 - 🧠 Sempre aprendendo novas tecnologias
 
