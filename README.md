@@ -39,5 +39,5 @@
 ### 📫 Contato
 
 - 📧 Email: brunosantosbrito.dev@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/brunoso0)  
-- 📱 Instagram: @haiaeu
+- 🌐 Linkedin: [brunoso0](https://www.linkedin.com/in/brunoso0)  
+- 📱 Instagram: [@haiaeu](https://www.instagram.com/haiaeu/)
