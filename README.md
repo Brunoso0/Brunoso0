@@ -28,10 +28,10 @@
 
 <p align="center">
   <!-- Estatísticas principais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoso0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoso0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="166" />
   <!-- Gráfico de commits consecutivos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoso0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Brunoso0&theme=vue-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoso0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="166" />
+  <img src="https://streak-stats.demolab.com/?user=Brunoso0&theme=vue-dark&hide_border=true" height="166" />
 </p>
 
 
