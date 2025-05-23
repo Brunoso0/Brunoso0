@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brunoso0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="166" />
   <!-- Gráfico de commits consecutivos -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoso0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="166" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Brunoso0&theme=vue-dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Brunoso0&theme=vue-dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 
